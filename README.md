@@ -11,7 +11,7 @@ Scalable Solution: Our AI-driven app accommodates diverse job roles and experien
 
 In the future, our program aims to:
 
-Create individualized learning paths based on the analyzed data of the registered employees in Saudi Arabia[ELEVATEX-DEMO-main.zip](https://github.com/iamjad09/ELEVATEX-DEMO/files/12641933/ELEVATEX-DEMO-main.zip)
+Create individualized learning paths based on the analyzed data of the registered employees in Saudi Arabia.
 .
 
 Provide real-time feedback and support by tracking their progress, and helping them to stay on track in career growth aspect.
